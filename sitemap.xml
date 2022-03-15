@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://molgryn.github.io/post/first/</loc>
+    <loc>https://molgryn.me/post/first/</loc>
     <lastmod>2022-03-15T20:51:20+09:00</lastmod>
   </url><url>
-    <loc>https://molgryn.github.io/</loc>
+    <loc>https://molgryn.me/</loc>
     <lastmod>2022-03-15T20:51:20+09:00</lastmod>
   </url><url>
-    <loc>https://molgryn.github.io/post/</loc>
+    <loc>https://molgryn.me/post/</loc>
     <lastmod>2022-03-15T20:51:20+09:00</lastmod>
   </url><url>
-    <loc>https://molgryn.github.io/about/</loc>
+    <loc>https://molgryn.me/about/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://molgryn.github.io/categories/</loc>
+    <loc>https://molgryn.me/categories/</loc>
   </url><url>
-    <loc>https://molgryn.github.io/tags/</loc>
+    <loc>https://molgryn.me/tags/</loc>
   </url>
 </urlset>

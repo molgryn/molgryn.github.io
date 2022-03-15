@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on molgryn</title>
-    <link>https://molgryn.github.io/post/</link>
+    <link>https://molgryn.me/post/</link>
     <description>Recent content in Posts on molgryn</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Mar 2022 20:51:20 +0900</lastBuildDate><atom:link href="https://molgryn.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Mar 2022 20:51:20 +0900</lastBuildDate><atom:link href="https://molgryn.me/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>https://molgryn.github.io/post/first/</link>
+      <link>https://molgryn.me/post/first/</link>
       <pubDate>Tue, 15 Mar 2022 20:51:20 +0900</pubDate>
       
-      <guid>https://molgryn.github.io/post/first/</guid>
+      <guid>https://molgryn.me/post/first/</guid>
       <description>First page</description>
     </item>
     
